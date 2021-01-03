@@ -6,6 +6,17 @@ I built and maintain a SaaS blogging platform called [Chapter24](https://chapter
 
 My experience and portfolio is available on [my website](https://radioactivetoy.tech). I spout my opinions regularly on [my blog](https://binarysolo.chapter24.blog).
 
+<br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50">
+
+
 ----
 
 I'm available for contract work and consulting in Ruby, Rails, static HTML websites and pretty much anything Web related. [Drop me a line](mailto:ayush@radioactivetoy.tech) and let's chat!
