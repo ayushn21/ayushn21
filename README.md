@@ -2,7 +2,7 @@
 
 I'm a freelance web developer based in London, UK. I like boring tech like Ruby on Rails and the [Hotwire](https://hotwire.dev) approach to building websites.
 
-I built and maintain a SaaS blogging platform called [Chapter24](https://chapter24.app). I'm also on the core team of the [Bridgetown](https://bridgetownrb.com) project.
+I built and maintain a mailing list app called [Scattergun](https://scattergun.email). I'm also on the core team of the [Bridgetown](https://bridgetownrb.com) project.
 
 My experience and portfolio is available on [my website](https://radioactivetoy.tech). I spout my opinions regularly on [my blog](https://binarysolo.chapter24.blog).
 
