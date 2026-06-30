@@ -1,4 +1,4 @@
-# Hey, I'm [Ayush](https://twitter.com/ayushn21) 👋
+# Hey, I'm [Ayush](https://ruby.social/@ayush) 👋
 
 I'm a freelance web developer based in London, UK. I like boring tech like Ruby on Rails and the [Hotwire](https://hotwire.dev) approach to building websites.
 
